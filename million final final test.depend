@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1672038478 source:c:\users\hos19\onedrive\desktop\project\func.c
+	"Func.h"
+
+1672036912 c:\users\hos19\onedrive\desktop\project\func.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1672033180 source:c:\users\hos19\onedrive\desktop\project\main.c
+	"Func.h"
+
+1672036480 source:c:\users\hos19\onedrive\desktop\project\ques.c
+	"Func.h"
+
